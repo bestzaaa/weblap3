@@ -1,0 +1,13 @@
+.table1{
+    border: 1px solid black;
+}
+.table2{
+    border: 1px solid black;
+    width: 37px;
+}
+.tr,td{
+    border: 1px solid black;
+}
+.table1:hover,.table2:hover{
+    background-color: aqua;
+}
